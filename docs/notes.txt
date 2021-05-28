@@ -4,3 +4,7 @@ main page
     .projects
     .collaborations
     .contact
+
+TODOs
+.create a link back to the home page in the jumbotron (on the bear and under kumasoft)
+.make sure the links open in a new tab/page
